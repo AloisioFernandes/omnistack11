@@ -11,9 +11,9 @@ module.exports = {
   async create(request, response) {
     const { name, email, whatsapp, city, uf } = request.body;
 
-    const id = crypto.randomBytes(4).toString('HEX');
+    const id = crypto.randomBytes(4).toString('HEX'); //conjunto aleatório de quatro bytes hexadecimais
     
-    await connection('ongs').insert({
+    await connection('ongs').insert({ //conectando e inserindo dados na tabela
       id,
       name,
       email,

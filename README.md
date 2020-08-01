@@ -10,4 +10,11 @@
 
  frontend
  reactjs
+ login, cadastro, ligação com rotas
  localstorage para id de ong
+
+ mobile
+ expo para visualização
+ envio de email por expo-mail-composer
+ envio mensagem de whatsapp por deep linking
+ scroll infinito

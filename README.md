@@ -7,6 +7,7 @@
  sqlite, banco de dados relacional
  knex, query builder, migrations: forma de criar e manter histórico de tabelas de banco de dados
  cors controle de acesso
+ validação por celebrate
 
  frontend
  reactjs
@@ -18,3 +19,6 @@
  envio de email por expo-mail-composer
  envio mensagem de whatsapp por deep linking
  scroll infinito
+ 
+ avançado
+ testes com Jest

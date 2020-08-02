@@ -1,4 +1,4 @@
-# omnistack11
+# Omnistack 11
  
 Aplicação desenvolvida seguindo o evento semana Omnistack 11 da Rockseat com foco no uso das tecnologias: Node.js, ReactJS e React Native.
 Be The Hero é um projeto que visa conectar ONGs que precisam de auxílio para resolver seu incidentes com pessoas que querem ajudar financeiramente alguma dessas ONGs. Na aplicação web, o usuário pode cadastrar sua ONG e fazer o login a partir de um id único. Em seguida é possível fazer o cadastro dos incidentes que precisam de ajuda ou deletar aqueles que já foram resolvidos. No app mobile, o usuário consegue ver a lista de todos os casos cadastrados pelas ONGs e entrar em contato através de e-mail ou Whatsapp sem sair do aplicativo.
